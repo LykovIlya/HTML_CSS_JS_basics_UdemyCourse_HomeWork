@@ -1,5 +1,12 @@
+@import url(/src/css/text_param.css);
+
 body {
 	background-color: rgb(255, 255, 224);
 	margin: 60px;
 	font-size: 10pt;
+}
+
+.image_class {
+	display: block;
+	margin: left;
 }
