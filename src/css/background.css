@@ -8,5 +8,10 @@ body {
 
 .image_class {
 	display: block;
-	margin: left;
+	margin: 0 auto;
+	width: auto;
+}
+
+hr {
+	width: 50%;
 }
